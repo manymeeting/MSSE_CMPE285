@@ -1,4 +1,4 @@
-# MSSE_CMPE202
+# MSSE_CMPE285
 Lab and projects for course CMPE285 of MSSE program.
 
 
